@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+.redPlane{
+    position: relative;
+    left: 50%;
+    top: 7em;
+    width: 300px;
+    height: 150px;
+    background: #EF3752;
+
+    padding-top: 60px;
+    text-align: left;
+    line-height: 50px;
+
+    font-family: Microsoft Yahei;
+    font-size: 50px;
+    font-weight: bolder;
+}
